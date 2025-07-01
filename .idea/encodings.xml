@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AccessControlSystem1/AccessModule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AccessControlSystem1/AccessModule/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AccessControlSystem1/AdminModule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AccessControlSystem1/AdminModule/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AccessControlSystem1/Common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AccessControlSystem1/Common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AccessControlSystem1/FeeModule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AccessControlSystem1/FeeModule/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AccessControlSystem1/MainModule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AccessControlSystem1/MainModule/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AccessControlSystem1/ReportModule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AccessControlSystem1/ReportModule/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AccessControlSystem1/VehicleModule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AccessControlSystem1/VehicleModule/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AccessControlSystem1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AccessControlSystem1/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

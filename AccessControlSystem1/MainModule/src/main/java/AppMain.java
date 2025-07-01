@@ -3,7 +3,7 @@
 import javax.swing.*;
 
 //import com.wan.dao.UserDAO;
-import com.ncu.wan.mainmodule.view.LoginView;
+import com.ncu.mainmodule.view.LoginView;
 
 public class AppMain {
 
