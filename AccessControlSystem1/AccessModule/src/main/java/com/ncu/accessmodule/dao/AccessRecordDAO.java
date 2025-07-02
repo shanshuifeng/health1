@@ -1,8 +1,8 @@
 //文件: AccessRecordDAO.java ///////////////////////////////////////////////////////////////////////////////////////////
 
-package com.wan.accessmodule.dao;
+package com.ncu.accessmodule.dao;
 
-import com.wan.accessmodule.model.AccessRecord;
+import com.ncu.accessmodule.model.AccessRecord;
 import com.ncu.common.util.DbUtil;
 
 import java.math.BigDecimal;

@@ -1,6 +1,6 @@
 //文件: AdminController.java ///////////////////////////////////////////////////////////////////////////////////////////
 
-package com.wan.adminmodule.controller;
+package com.ncu.adminmodule.controller;
 
 import com.ncu.common.dao.UserDAO;
 import com.ncu.common.model.User;

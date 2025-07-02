@@ -1,11 +1,11 @@
 //文件: AccessController.java ///////////////////////////////////////////////////////////////////////////////////////////
 
-package com.wan.accessmodule.controller;
+package com.ncu.accessmodule.controller;
 
-import com.wan.accessmodule.dao.AccessRecordDAO;
+import com.ncu.accessmodule.dao.AccessRecordDAO;
 import com.ncu.vehiclemodule.dao.ResidentVehicleDAO;
-import com.wan.accessmodule.model.AccessRecord;
-import com.wan.adminmodule.model.FeeRule;
+import com.ncu.accessmodule.model.AccessRecord;
+import com.ncu.adminmodule.model.FeeRule;
 import com.ncu.vehiclemodule.model.ResidentVehicle;
 
 import javax.swing.*;

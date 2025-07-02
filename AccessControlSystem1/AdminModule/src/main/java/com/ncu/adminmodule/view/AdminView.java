@@ -1,10 +1,10 @@
 //文件: AdminView.java ///////////////////////////////////////////////////////////////////////////////////////////
 
-package com.wan.adminmodule.view;
+package com.ncu.adminmodule.view;
 
-import com.wan.adminmodule.controller.AdminController;
-import com.wan.adminmodule.dao.FeeRuleDAO;
-import com.wan.adminmodule.model.FeeRule;
+import com.ncu.adminmodule.controller.AdminController;
+import com.ncu.adminmodule.dao.FeeRuleDAO;
+import com.ncu.adminmodule.model.FeeRule;
 import com.ncu.common.dao.UserDAO;
 import com.ncu.common.model.User;
 

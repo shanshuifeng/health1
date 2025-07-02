@@ -3,8 +3,8 @@
 package com.ncu.mainmodule.view;
 
 
-import com.wan.accessmodule.view.AccessView;
-import com.wan.adminmodule.view.AdminView;
+import com.ncu.accessmodule.view.AccessView;
+import com.ncu.adminmodule.view.AdminView;
 import com.ncu.common.model.User;
 import com.ncu.feemodule.view.FeeView;
 import com.ncu.reportmodule.view.ReportView;

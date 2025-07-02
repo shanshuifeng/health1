@@ -1,6 +1,6 @@
 //文件: AccessRecord.java ///////////////////////////////////////////////////////////////////////////////////////////
 
-package com.wan.accessmodule.model;
+package com.ncu.accessmodule.model;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;

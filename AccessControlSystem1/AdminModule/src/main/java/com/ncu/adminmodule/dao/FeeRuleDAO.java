@@ -1,8 +1,8 @@
 //文件: FeeRuleDAO.java ///////////////////////////////////////////////////////////////////////////////////////////
 
-package com.wan.adminmodule.dao;
+package com.ncu.adminmodule.dao;
 
-import com.wan.adminmodule.model.FeeRule;
+import com.ncu.adminmodule.model.FeeRule;
 import com.ncu.common.util.DbUtil;
 
 import java.sql.*;

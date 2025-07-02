@@ -1,6 +1,6 @@
 //文件: FeeRule.java ///////////////////////////////////////////////////////////////////////////////////////////
 
-package com.wan.adminmodule.model;
+package com.ncu.adminmodule.model;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;

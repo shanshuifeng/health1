@@ -1,13 +1,13 @@
 //文件: AccessView.java ///////////////////////////////////////////////////////////////////////////////////////////
 
-package com.wan.accessmodule.view;
+package com.ncu.accessmodule.view;
 
 import com.toedter.calendar.JDateChooser;
-import com.wan.accessmodule.controller.AccessController;
-import com.wan.accessmodule.dao.AccessRecordDAO;
-import com.wan.accessmodule.model.AccessRecord;
-import com.wan.adminmodule.dao.FeeRuleDAO;
-import com.wan.adminmodule.model.FeeRule;
+import com.ncu.accessmodule.controller.AccessController;
+import com.ncu.accessmodule.dao.AccessRecordDAO;
+import com.ncu.accessmodule.model.AccessRecord;
+import com.ncu.adminmodule.dao.FeeRuleDAO;
+import com.ncu.adminmodule.model.FeeRule;
 import com.ncu.vehiclemodule.dao.ResidentVehicleDAO;
 import com.ncu.vehiclemodule.model.ResidentVehicle;
 

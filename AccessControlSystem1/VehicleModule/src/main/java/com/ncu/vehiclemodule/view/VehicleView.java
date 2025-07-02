@@ -3,8 +3,8 @@
 package com.ncu.vehiclemodule.view;
 
 import com.ncu.vehiclemodule.controller.VehicleController;
-import com.wan.adminmodule.dao.FeeRuleDAO;
-import com.wan.adminmodule.model.FeeRule;
+import com.ncu.adminmodule.dao.FeeRuleDAO;
+import com.ncu.adminmodule.model.FeeRule;
 import com.ncu.vehiclemodule.dao.ResidentVehicleDAO;
 import com.ncu.vehiclemodule.model.ResidentVehicle;
 
