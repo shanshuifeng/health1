@@ -1,11 +1,7 @@
-//文件: LoginController.java ///////////////////////////////////////////////////////////////////////////////////////////
-
-// LoginController.java
 package com.ncu.mainmodule.controller;
 
 import com.ncu.common.dao.UserDAO;
 import com.ncu.common.model.User;
-import com.ncu.common.util.EncryptUtil;
 
 public class LoginController {
 
@@ -34,7 +30,7 @@ public class LoginController {
         UserDAO userDAO = new UserDAO();
         User user = userDAO.getUserByUsername(username);
 
-        if (user == null || !EncryptUtil.decrypt(user.getPassword()).equals(password)) {
+        if (user == null || !user.getPassword().equals(password)) {
             if (loginListener != null) {
                 loginListener.onLoginFailed("用户名或密码错误");
             }
@@ -85,5 +81,4 @@ public class LoginController {
             }
         }
     }
-
 }

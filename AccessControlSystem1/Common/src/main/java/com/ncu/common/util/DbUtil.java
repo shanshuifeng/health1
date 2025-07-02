@@ -1,16 +1,13 @@
-//文件: DbUtil.java ///////////////////////////////////////////////////////////////////////////////////////////
-
 package com.ncu.common.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-// 数据库管理类
 public class DbUtil {
-    private static final String DB_URL = "jdbc:mysql://localhost:3306/access_sys_db?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
+    private static final String DB_URL = "jdbc:mysql://localhost:3306/health1?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
     private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "@32158566Abc#";
+    private static final String DB_PASSWORD = "Texas1970"; // 替换为你的数据库密码
 
     private static Connection connection;
 
@@ -30,6 +27,4 @@ public class DbUtil {
             e.printStackTrace();
         }
     }
-
 }
-
